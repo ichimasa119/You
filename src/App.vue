@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header>
-      <router-link to="/">You </router-link>
+      <router-link to="/">You</router-link>
       <nav>
         <ul>
           <li>
